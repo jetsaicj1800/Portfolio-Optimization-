@@ -1,0 +1,46 @@
+
+Log for 'MinVar' Clone_2 (V12.8.0.0) Sat Mar  2 14:13:16 2019
+
+Number of nonzeros in lower triangle of Q = 45
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+Summary statistics for factor of Q:
+  Rows in Factor            = 10
+  Integer space required    = 10
+  Total non-zeros in factor = 55
+  Total FP ops to factor    = 385
+
+Using LP solver to compute a starting basis.
+
+Dual simplex solved model.
+
+
+Log for 'MinVar' Clone_2 (V12.8.0.0) Sat Mar  2 14:33:09 2019
+
+Number of nonzeros in lower triangle of Q = 45
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+Summary statistics for factor of Q:
+  Rows in Factor            = 10
+  Integer space required    = 10
+  Total non-zeros in factor = 55
+  Total FP ops to factor    = 385
+
+Dual simplex solved model.
+
+
+Log for 'MinVar' Clone_2 (V12.8.0.0) Sat Mar  2 16:45:20 2019
+
+Number of nonzeros in lower triangle of Q = 45
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+Summary statistics for factor of Q:
+  Rows in Factor            = 10
+  Integer space required    = 10
+  Total non-zeros in factor = 55
+  Total FP ops to factor    = 385
+
+Using LP solver to compute a starting basis.
+
+Dual simplex solved model.
+

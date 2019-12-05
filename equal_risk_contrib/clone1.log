@@ -1,0 +1,65 @@
+
+Log for 'MinVar' Clone_1 (V12.8.0.0) Sat Mar  2 14:13:16 2019
+
+Number of nonzeros in lower triangle of Q = 45
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+Summary statistics for factor of Q:
+  Rows in Factor            = 10
+  Integer space required    = 10
+  Total non-zeros in factor = 55
+  Total FP ops to factor    = 385
+Tried aggregator 0 times.
+Reduced presolve added 0 rows and 10 columns.
+Reduced QP has 11 rows, 20 columns, and 75 nonzeros.
+Reduced QP objective Q matrix has 10 nonzeros.
+Presolve time = 0.00 sec. (0.01 ticks)
+Parallel mode: using up to 10 threads for barrier.
+Barrier time = 0.00 sec. (0.01 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'MinVar' Clone_1 (V12.8.0.0) Sat Mar  2 14:33:09 2019
+
+Number of nonzeros in lower triangle of Q = 45
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+Summary statistics for factor of Q:
+  Rows in Factor            = 10
+  Integer space required    = 10
+  Total non-zeros in factor = 55
+  Total FP ops to factor    = 385
+Tried aggregator 0 times.
+Reduced presolve added 0 rows and 10 columns.
+Reduced QP has 11 rows, 20 columns, and 75 nonzeros.
+Reduced QP objective Q matrix has 10 nonzeros.
+Presolve time = 0.00 sec. (0.01 ticks)
+Parallel mode: using up to 10 threads for barrier.
+Number of nonzeros in lower triangle of A*A' = 55
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+Barrier time = 0.02 sec. (0.01 ticks)
+
+Dual simplex solved model.
+
+
+Log for 'MinVar' Clone_1 (V12.8.0.0) Sat Mar  2 16:45:20 2019
+
+Number of nonzeros in lower triangle of Q = 45
+Using Approximate Minimum Degree ordering
+Total time for automatic ordering = 0.00 sec. (0.00 ticks)
+Summary statistics for factor of Q:
+  Rows in Factor            = 10
+  Integer space required    = 10
+  Total non-zeros in factor = 55
+  Total FP ops to factor    = 385
+Tried aggregator 0 times.
+Reduced presolve added 0 rows and 10 columns.
+Reduced QP has 11 rows, 20 columns, and 75 nonzeros.
+Reduced QP objective Q matrix has 10 nonzeros.
+Presolve time = 0.00 sec. (0.01 ticks)
+Parallel mode: using up to 10 threads for barrier.
+Barrier time = 0.00 sec. (0.01 ticks)
+
+Dual simplex solved model.
+
